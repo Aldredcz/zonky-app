@@ -1,0 +1,11 @@
+.idea
+.vscode
+node_modules
+/build
+/dist
+
+/dll
+/assets/dll
+
+npm-debug.log
+yarn-error.log
